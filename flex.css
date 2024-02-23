@@ -1,0 +1,28 @@
+.flex-container {
+    display: flex;
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+    flex-direction: column;
+}
+
+.nav_bar {
+    display: flex;
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(0, 157, 255);
+    flex-direction: row;
+}
+
+.flex-container2 {
+    display: flex;
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+    flex-direction: row;
+}
+.flex-item {
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+}
